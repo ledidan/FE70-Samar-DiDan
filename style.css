@@ -711,7 +711,7 @@ header .background-header {
 }
 
 .price__content .card-table:hover {
-    border-image: url(/images/br.png) 1 round;
+    border-image: url(images/br.png) 1 round;
 }
 
 .card-inner .card-title h3 {
