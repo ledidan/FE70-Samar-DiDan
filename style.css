@@ -47,7 +47,7 @@ header {
 }
 
 header .background-header {
-    background: url(/images/background/pic2.png);
+    background: url(images/background/pic2.png);
     background-size: 100%;
     background-position: center top;
     height: 510px;
@@ -258,7 +258,7 @@ header .background-header {
 /* SECTION 2 */
 
 .card__intro {
-    background: url(/images/background/bg2.png);
+    background: url(images/background/bg2.png);
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -413,7 +413,7 @@ header .background-header {
 
 /* COUNT CONTENT */
 .count__content {
-    background: url(/images/background/bg14.png);
+    background: url(images/background/bg14.png);
     background-position: center center;
     background-repeat: no-repeat;
     padding-top: 80px;
@@ -463,7 +463,7 @@ header .background-header {
 
 /* SERVICE SECTION */
 .services__content {
-    background: url(/images/background/bg2.png);
+    background: url(images/background/bg2.png);
     background-size: 100%;
     background-repeat: no-repeat;
     padding-top: 115px;
@@ -572,7 +572,7 @@ header .background-header {
 /* PORTFOLIO SECTION */
 
 .portfolio__content {
-    background: url(/images/background/bg17.png);
+    background: url(images/background/bg17.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
@@ -694,7 +694,7 @@ header .background-header {
 }
 
 .price__content {
-    background: url(/images/background/bg16.png);
+    background: url(images/background/bg16.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -794,12 +794,14 @@ header .background-header {
     color: white;
     cursor: pointer;
 }
+
 .toggle-price .monthly {
     color: black;
     background-color: white;
     padding: 10px 0px;
     border-radius: 2px;
 }
+
 .price__content .toggle-price {
     align-items: center;
     justify-content: center;
@@ -820,7 +822,7 @@ header .background-header {
 /* Testimonal Content */
 
 .testimonial__section {
-    background: url(/images/background/bg17.png);
+    background: url(images/background/bg17.png);
     background-repeat: no-repeat;
     background-size: 100%;
     padding-top: 115px;
@@ -909,7 +911,7 @@ header .background-header {
 }
 
 .testimonial-thumbs .swiper-slide-thumb-active .testimonial-pic .shape-bx {
-    background-image: url(/images/pattern/pattern12.png);
+    background-image: url(images/pattern/pattern12.png);
     background-position: bottom;
     background-size: contain;
     height: 35px;
@@ -985,7 +987,7 @@ header .background-header {
 
 /* BLOG SECTION */
 .blog__section {
-    background: url(/images/background/bg16.png);
+    background: url(images/background/bg16.png);
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -1147,7 +1149,7 @@ footer {
 }
 
 footer.bg-1 {
-    background: url(/images/pattern/pattern2.png);
+    background: url(images/pattern/pattern2.png);
     background-repeat: no-repeat;
     background-size: contain;
     position: relative;
@@ -1167,7 +1169,7 @@ footer.bg-1 {
     position: relative;
     border-radius: 10px;
     box-shadow: 0 0px 30px 0 rgb(0 0 0 / 10%);
-    background-image: url(/images/pattern/pattern3.png);
+    background-image: url(images/pattern/pattern3.png);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -1208,7 +1210,7 @@ footer.bg-1 {
 /* FOOTER ABOUT */
 
 .footer-about {
-    background: url(/images/background/bg4.png);
+    background: url(images/background/bg4.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
